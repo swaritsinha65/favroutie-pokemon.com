@@ -1,0 +1,14 @@
+body{
+    background-color: darkblue;
+    text-overflow: clip;
+    text-align: center;
+text-shadow: rgba(0, 0, 0, 0);
+  font-family: Algerian;
+  font-weight: bolder;
+  font-size: large;
+  padding: 50px;
+  font-weight: 900;
+  border-image-width: 5vmin;
+  border:rgba(0, 0, 0, 0) image hegit 5px;
+
+}
